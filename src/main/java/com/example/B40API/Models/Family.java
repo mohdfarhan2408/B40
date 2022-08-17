@@ -2,7 +2,7 @@ package com.example.B40API.Models;
 
 public class Family {
 
-    //Attributes
+    //Attribute
     private int id; /*Primary Key*/
     private short numberOfFamilyMembers;
     private String address;
